@@ -43,6 +43,10 @@ img {
 	font-family: ubuntu, sans-serif;
 	font-size: 60px;
 }
+
+.center {
+	text-align: center;
+}
 /*List of Helpful Links*/
 ul {
 	display: inline;
