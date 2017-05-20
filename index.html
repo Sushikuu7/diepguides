@@ -11,33 +11,6 @@
   	}
   </style>
   <script type="text/javascript">
-<!--
- var imlocation = "http://imgur.com/a/FYG1b";
- var currentdate = 0;
- var image_number = 0;
- function ImageArray (n) {
-   this.length = n;
-   for (var i =1; i <= n; i++) {
-     this[i] = ' '
-   }
- }
- image = new ImageArray(7)
- image[0] = 'http://i.imgur.com/ZvfSpN2.png'
- image[1] = 'http://i.imgur.com/bC7dRpQ.png'
- image[2] = 'http://i.imgur.com/X3ZWNYb.png'
- image[3] = 'http://i.imgur.com/lvRSp7U.png'
- image[4] = 'http://i.imgur.com/kkKHrQC.png'
- image[5] = 'http://i.imgur.com/Lc7nr8d.png'
- image[6] = 'http://i.imgur.com/hoeomJq.png'
- var rand = 60/image.length
- function randomimage() {
-  currentdate = new Date()
-  image_number = currentdate.getSeconds()
-  image_number = Math.floor(image_number/rand)
-  return(image[image_number])
- }
- document.write("<img src='" + imlocation + randomimage()+ "'>");
-//-->
 let urls = ['http://i.imgur.com/ZvfSpN2.png', 'http://i.imgur.com/bC7dRpQ.png', 'http://i.imgur.com/X3ZWNYb.png', 'http://i.imgur.com/lvRSp7U.png', 'http://i.imgur.com/kkKHrQC.png', 'http://i.imgur.com/Lc7nr8d.png', 'http://i.imgur.com/hoeomJq.png']; 
 let img = urls[Math.floor(urls.length*Math.random())]
 </script>
