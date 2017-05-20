@@ -24,7 +24,9 @@ h1 {
 h2 {
 	color: #FF473A;
 	font-family: ubuntu, sans-serif;
-	font-size: 40px;
+	font-size: 60px;
+	padding: 0px;
+	margin: 0px;
 }
 
 p {
