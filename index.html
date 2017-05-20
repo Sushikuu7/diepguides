@@ -10,6 +10,35 @@
   		margin: auto;
   	}
   </style>
+  <script type="text/javascript">
+<!--
+ var imlocation = "http://imgur.com/a/FYG1b";
+ var currentdate = 0;
+ var image_number = 0;
+ function ImageArray (n) {
+   this.length = n;
+   for (var i =1; i <= n; i++) {
+     this[i] = ' '
+   }
+ }
+ image = new ImageArray(7)
+ image[0] = 'http://i.imgur.com/ZvfSpN2.png'
+ image[1] = 'http://i.imgur.com/bC7dRpQ.png'
+ image[2] = 'http://i.imgur.com/X3ZWNYb.png'
+ image[3] = 'http://i.imgur.com/lvRSp7U.png'
+ image[4] = 'http://i.imgur.com/kkKHrQC.png'
+ image[5] = 'http://i.imgur.com/Lc7nr8d.png'
+ image[6] = 'http://i.imgur.com/hoeomJq.png'
+ var rand = 60/image.length
+ function randomimage() {
+  currentdate = new Date()
+  image_number = currentdate.getSeconds()
+  image_number = Math.floor(image_number/rand)
+  return(image[image_number])
+ }
+ document.write("<img src='" + imlocation + randomimage()+ "'>");
+//-->
+</script>
 </head>
   
 <body>
@@ -24,9 +53,9 @@
   <h1>Select a category:</h1>
 	<br>
 	<br>
-  <a href="https://sushikuu7.github.io/diepio/guides.html"><img src="http://i.imgur.com/6xgCZTZ.png" alt="GuidesCoverImage" style="width: 200px;height: 200px;"></a>
+  <a href="https://sushikuu7.github.io/diepio/guides.html"><img src="http://i.imgur.com/Wy7dQBZ.png" alt="GuidesCoverImage" style="width: 200px;height: 200px;"></a>
 	<strong><center>Guides</center></strong>
-  <a href="https://sushikuu7.github.io/diepio/concepts.html"><img src="http://i.imgur.com/ajgMBCP.png" alt="ConceptsCoverImage" style="width: 200px;height: 200px;"></a>
+  <a href="https://sushikuu7.github.io/diepio/concepts.html"><img src="http://i.imgur.com/vnAARQ9.png" alt="ConceptsCoverImage" style="width: 200px;height: 200px;"></a>
 	<strong><center>Concepts</center></strong>
   </body>
 </html>
