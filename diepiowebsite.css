@@ -25,6 +25,7 @@ h2 {
 	color: #FF473A;
 	font-family: ubuntu, sans-serif;
 	font-size: 40px;
+	margin: 0px;
 }
 
 p {
@@ -47,6 +48,7 @@ img {
 .center {
 	text-align: center;
 }
+
 /*List of Helpful Links*/
 ul {
 	display: inline;
