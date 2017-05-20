@@ -17,9 +17,14 @@ h1 {
 	color: #4285F4;
 	text-align: center;
 	position: relative;
-	padding-bottom: -45px;
 	font-family: ubuntu, sans-serif;
 	font-size: 80px;
+}
+
+h2 {
+	color: #EA4335;
+	font-family: ubuntu, sans-serif;
+	font-size: 30px;
 }
 
 p {
@@ -34,10 +39,9 @@ img {
 
 .page_title {
 	color: #4285F4;
-	text-align: center;
 	position: relative;
 	font-family: ubuntu, sans-serif;
-	font-size: 40px;
+	font-size: 60px;
 }
 /*List of Helpful Links*/
 ul {
