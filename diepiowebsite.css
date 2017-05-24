@@ -29,6 +29,14 @@ h2 {
 	padding: 0px;
 }
 
+h3 {
+	color: #777;
+	font-family: ubuntu, sans-serif;
+	font-size: 20px;
+	margin: 0px;
+	padding: 0px;
+}
+
 p {
 	font-family: ubuntu, sans-serif;
 	color: #000;
