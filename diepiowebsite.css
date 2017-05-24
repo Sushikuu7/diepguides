@@ -22,7 +22,7 @@ h1 {
 }
 
 h2 {
-	color: #FF473A;
+	color: #4285F4;
 	font-family: ubuntu, sans-serif;
 	font-size: 40px;
 	margin: 0px;
@@ -30,9 +30,9 @@ h2 {
 }
 
 h3 {
-	color: #777;
+	color: #FF473A;
 	font-family: ubuntu, sans-serif;
-	font-size: 20px;
+	font-size: 30px;
 	margin: 0px;
 	padding: 0px;
 }
@@ -44,6 +44,7 @@ p {
 
 img {
 	max-width: 100%;
+	width: 75%;
 	padding: 25px;
 }
 
