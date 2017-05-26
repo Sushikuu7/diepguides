@@ -62,6 +62,9 @@ img {
 	text-align: center;
 }
 
+.center_other {
+	align-content: center;
+}
 /*List of Helpful Links*/
 ul {
 	display: inline;
