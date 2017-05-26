@@ -47,6 +47,11 @@ img {
 	padding: 25px;
 }
 
+iframe {
+	display: block;
+	margin: 0 auto;
+}
+
 .img_small {
 	width: 75%;
 }
