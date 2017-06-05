@@ -1,11 +1,11 @@
-<!-- Modifiers: index,img_wh_275_275 -->
+<!-- Modifiers: index -->
 # Select a category:
 
-[![GuidesCoverImage](http://i.imgur.com/ESw2RsB.png)](https://sushikuu7.github.io/diepio/guides.html)
+[![GuidesCoverImage](http://i.imgur.com/ESw2RsB.png =275x275)](https://sushikuu7.github.io/diepio/guides.html)
 
 
 
-[![ConceptsCoverImage](http://i.imgur.com/Wy7dQBZ.png)](https://sushikuu7.github.io/diepio/concepts.html)
+[![ConceptsCoverImage](http://i.imgur.com/Wy7dQBZ.png =275x275)](https://sushikuu7.github.io/diepio/concepts.html)
 
 
 
