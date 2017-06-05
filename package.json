@@ -1,0 +1,23 @@
+{
+  "name": "diepio",
+  "version": "0.0.1",
+  "description": "A website for diep.io guides and concepts.",
+  "main": "",
+  "scripts": {
+    "test": "echo I exist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushikuu7/diepio.git"
+  },
+  "author": "Sushikuu7",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Sushikuu7/diepio/issues"
+  },
+  "homepage": "https://github.com/Sushikuu7/diepio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-showdown": "^0.1.0"
+  }
+}

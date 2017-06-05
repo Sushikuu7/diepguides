@@ -1,0 +1,177 @@
+# Octotank - Arkhalis
+
+
+
+## 1. Intro
+
+My name is Arkhalis, and I am a player that is used to playing multiple types of tanks, all with varying times of using them. My experience with octotank was that for a few months I decided to main it and play only it and its multiple build types. Although I no longer main it, I still play it every now and then along with all the other tanks.
+
+
+
+## 2. Basics
+
+Octotank is a tank that branches off from quad tank at level 45. At one point it also branched off of twin flank, but it has been removed from that spot a few updates ago. So lets take a look at the class paths that are taken to get to octotank, as octotank keeps some traits from them. The only trait the octotank keeps from basic is the reload cycle, so every barrel has a reload cycle equal to a basic tank. The first two classes that can become octotanks are twin and flankguard. Twin is the class that looks the least like octotank, but octotank receives its most important trait from this class, the bullet stats. Every octotank bullet is equal to a twin bullet in terms of bullet speed, bullet penetration, and bullet damage.
+
+
+
+Next up, the flank guard is just a basic tank with a back cannon that also has the power of a basic tank. The trait given here is the start of cannons appearing on multiple sides of the tank to protect it from being flanked on both sides. The second trait given is that the octotank receives an equal amount of recoil on both sides, meaning that both of these clsses can't recoil in any direction with a positive or negative net of speed thanks to cannons being on multiple sides. The final trait that it inherits is actually given from the original flankguard, which is the firing pattern of the tanks.
+
+
+
+Flankguard used to shoot its front cannon first, then shoot its back cannon in half of a reload cycle later. This would lead to having both cannons firing once after the other, which is what the octotank still does and part of what makes it great. The quad tank, the only lvl 30 tank branching to the octotank, only gives the trait of having more barrels that do less power in the shape of a +.
+
+
+
+Although the quad tank has more power than a octotank bullet, twin bullet, it has less power than a flankguard bullet and basic tank bullet. Finally we arrive at the octotank. With all of this, the octotank has 8 barrels, and the two groups of 4 barrels shoot consecutively in a + formation. The bullet themselves have the reload of a basic tank but the power and speed of a twin. There is no recoil to be had with this tank, so its only source of speed is the points you put into its Movement Speed.
+
+
+
+Now then, octotank has a family group it belongs in as a level 45 class. Its a balanced tank in the AoE family tree. By AoE, I mean area of spam, which are all tanks that practically make a bullet hell all around them whenever they are shooting. Although the other tanks in this tree do it decently (auto 5, tripletwin, tri-trapper) Octotank is one of the best at it since it has barrels in every direction with high power, speed, and reload. Now that you know what it means when we say octotank is an AoE tank, lets explain what makes it part of the balanced path of this branch.
+
+
+
+Balanced paths are tanks that have the ability to be both offensive and defensive at the same time, and they usually excel at doing this without needing to pivot between offense or defense. They can still pivot, but they were made to be both at once. (an example being overlord, which can be both offensive or defensive which is a pivot tank, vs a factory, which is a balanced tank that protects itself while going offensive.)
+
+
+
+When an octotank shoots, the bullet pattern + the area the barrels covered usually blankets the area with bullets, causing incoming bullets to hit the bullets it shoots as they come into the bullet storm. As bullets hit this storm, they lose health and the amount of damage they will do in total. This is why most octotanks have lower bullet speeds.
+
+
+
+Aside from having higher MS (movement speed) for dodging usually, the lower bullet speeds cause the bullet density of the bullet storm to increase, although it loses range it gains a natural shield of bullets highly reducing the bullet damage of incoming bullets, if not destroying them first sometimes. While this is occurring, enemies within the bullet storm's range are forced to dodge incoming bullets while trying to hit the octotank as well.
+
+
+
+## 3. Builds
+
+### Glass Build
+
+The glass build of the octotank is commonly used as 00057777. The octotank has no recoil it can use, since drone tanks will also usually be able to escape it or bullet spammers will outrun it if it uses less movement speed. That and the higher ms allows it to go through the opening in bullet streams/storms easier so that it can take less damage in battles. The reload, damage, and penetration are pretty much self explanatory in that they are needed for doing damage, killing, softening incoming bullets, and creating openings in bullet streams. It also has range, which it requires for staying alive. It has less health making rammers that ambush and sea serpent's (probably should have stated this earlier, but this is the fastest dragon with the most health with a 02307777 build, with the only other dragon with that power and speed being the original phoenix 50007777) a bit more threatening even with its high speed.
+
+
+
+Its range is helpful for fighting them at a range and keeping them at bay if you can land bursts, but its also good and useful for dodging, especially with the knockback delivered perbullet as they get closer. This has the highest offensive power, but the defense is lacking. Although the bullet density is higher than if you were to use 6 or 7 bullet speed, the storm is still pretty spread out. You may have some bullets reducing damage, but most times bullets can and will find a way to sneak through the cracks.
+
+
+
+### Hurricane Build
+
+The hurricane build is a high ms and bullet power build like glass, but it has low bullet speed from 1-3 (sometimes 4) and the rest in health/body damage. The base build for it was 02307777, although 1-2 bullet speed is a little better so you have a storm in front of you as you are moving so your front isn't so weak in defense for ambushes or bullet spammers to take advantage of, and although its not as good at fighting at a range at close combat it is a pretty powerful fighter. Although it has no actual bullet speed for range, it is slightly decent in ranged combat if necessary. when fighting at range be prepared to move away from the opponent. This will cause you to move into your bullets which you also outspeed, which can result in more defense than if you were to stay in that position or go towards the target. If you must go into ranged combat, force your opponent to chase you.
+
+
+
+Although they might not let you come close if they have recoil or equal ms, you can follow them and dodge them until they are forced to attack you or are cornered. Since the latter won't always happen, the plan for being attacked is to run away. If they make the mistake of chasing you, there is your new range. Although you have slower bullet speed, the bullets have a shorter distance to travel that they can arrive in a less amount of time since their target is coming to them. Although the enemy will try to dodge, this will at least make it so you can attack in a ranged fight without the disadvantage of being outranged. This build has higher potent defense thanks to the almost non existant bullet speed used. The higher bullet density causes a thick wall that provides even better defense when running into the the bullets away from the attacker. However, this also causes less defense if you were to run towards the attacker, especially at 0 bullet speed which is why it is sometimes better to have 1-2 bullet speed for that frontal defense.
+
+
+
+### Tornado Build
+
+Finally, the tornado build. Unlike the offensive power of glass or survivability of hurricane, this build is a support build that is also a defensive behemoth. Its base build was 34507770, or for those who dislike regen 06607770. It is meant to help cover teammates with a high density of bullets for shielding (not too helpful with necromancers as you will destroy their squares). This is helpful for protecting teammates who are being flanked, or for blocking a tank from getting to a point thanks to your bulk, although they may get around thanks to your range and ms. Outside of support it is one of the most defensive builds (not the best survivability build though. That goes to the hurricane builds).
+
+
+
+It's built in a way that already counters rammers, and although dragons would seem to be a threat, they can be dealt with using your bursts or attempts at streaming BWP. if they attempt to ram, you can usually out dps them... although you may die to their baby rammer if they did enough damage. Although slow, when it moves it keeps its storm around it with very minor differences inw here the middle of the storm is. This makes it much more defensive in the front, but thanks to ms not the best at running away. Preferably it would be wise to only use this in teammodes, but if you see the need to do so go ahead and have some fun in ffa, or preferably maze where you can use walls to your advantage with your slow ms.
+
+
+
+## 4. Attacking/Defending
+
+
+
+### The Doubleshot Technique
+
+Well, last time this was the transition from the overview to the three "stances" of Octotank. This time, however, I will transition to the basic playstyle and techniques of Octotank here. You will find some of the old stances were techniques, so don't be surprised to see them here. First, I will start with one of the most basic and important techniques for tanks like octotank, the stacking technique used with Predator. I will say this right now, on its own this technique might not seem to be the best, but when paired with other techniques I will explain later, it can improve them highly (so just think of this as a support technique that supports other techniques rather than other players).
+
+
+
+To perform this technique, first you want to tap the fire button so that only the first group of bullets fire in a + pattern. Now, you want to press and hold the fire button after doing this, just make sure you don't wait until after the cooldown for the cannons you just fired is over. "What will this accomplish?" you might be thinking if you are new to this technique.
+
+
+
+For those who are new, this causes the second group to fire when you next press the fire button, and then the first group will fire when the cooldown expires. As long as you don't stop shooting, this will result in a new bullet pattern caused by when the two groups fire compared to each other This can be anywhere from a minimal difference between the original firerate compared to the older one, or something like both groups firing at once as if they were one group.
+
+
+
+What is happening (so you understand it a little better) is that you are changing when the second group fires, which changes when its cooldown ends compared to the first group. When this happens, the two groups will start firing in new patterns based on when the cooldown for the second group was started. Once again, by itself this will seem to be useless, but when used in conjunction with the other techniques you will see the true use of this technique.
+
+
+
+### Border of Wave and Particle Technique
+
+So the next tech I was mentioning in my last section was what I called a doubleshot, although anokuu had another name for it. I will be referring to the tech by what Anokuu called it, aka the Border of Wave and Particle (or BWP as I will be referring to it since its so short). This is one of the more interesting techs, but I will start with the basics on how to do it and what it does. There are multiple ways to do it, but I will start with the way it was originally done. Start by slowly rotating the octotank as you fire the cannons manually or by auto-fire.
+
+
+
+Then you pick up speed until you hit the point where you see a lack of bullets in one area but double the bullets in between the main cannons, and double the bullets firing from where the main cannons should be. At this point you will want to keep the speed at which you spin the tank constant, and if you wish you can stop and try again multiple times to try to get a feel for how fast you will be doing this in the times you need to do this without time to do the revup, which will be in most cases where you need quick defense or offense, although you will probably find yourself using the two other ways for getting this tech started for those purposes.
+
+
+
+You may be wondering what is happening during this technique, so I will explain it. The octotank is known for having eight barrels, where every barrel shoots in an alternating firing pattern. This results in two groups of 4 barrels, with each group shaped in a + firing pattern, firing alternatively. As the octotank spins, the barrels position before firing shift. When done fast enough, but at the same time slow enough, it causes the second group of cannons to fire in the position of the first group of cannons, and then the first cannons firing in their original positions immediately after that which creates a cycle.
+
+
+
+### Auto Spin Technique
+
+Next, I will explain something pretty much everyone does when they play octotank, which is both good and bad. This is using the auto-spin button for combat, which is activated by pressing <kbd>C</kbd> and usually used in conjunctions with <kbd>E</kbd> for auto-firing. Now then, this has good offensive and defensive utility, although I don't know whether or not to consider it a tech on its own, although it can't be done with other techs. For those who don't know, auto-spin spins octotank at a fixed speed rate. 
+
+
+
+As octotank spins, its still shooting bullets that are creating a pattern as they shoot. The upside is this forms a storm of bullets around you that changes as you just move around. As the bullets shoot, they cover the holes in the defense as the tank's body circles around. To make it easier to understand, imagine you are fighting without turning the octotank. This leaves a space in between each bullet stream created by each barrel. This is 8 spots where a bullet can come in and hit for full damage if you fail to dodge. When you spin, this area becomes covered with a layer of bullets, making it so bullets won't be able to do full damage if they shoot through the storm and manage to hit you since they will have hit the bullets.
+
+
+
+You might be thinking this is great, and would be wondering why you shouldn't use this at any point. Or you may understand the disadvantage of this tech already. This is what I would call a defensive position, as you gain defense you lose offense. How do you lose offense? Well, when spinning, to fill the holes in with one layer, the place where the original bullets has no bullets shot until the cycle. To put it simply, just like how the barrels of the octotank shoot in a pattern of every half cycle, the layers of the bullet storm fill in the holes every other cycle. This leads to two things, which are a cause and effect of eachother.
+
+
+
+First, it leads to the inability to control the where the bullets shoot, which then leads to inaccuracy thanks to this and less frontal power. The inability to control where the tank shoots makes it so you can't do the following techs, have frontal power, or the best of accuracy.
+
+
+
+However, it allows for much better defense on a rounded scale, although worse defense in one area thanks to how the tech makes layers of bullets in different areas of the octotank on every other cycle instead of one or 2 layers (the latter will be explained next) in each of the 8-4 areas of the octotank (depends on if you are using the next tech or not).
+
+
+
+Like I said, there are three main ways to do this tech. I explained the first one for turning, however the issue with it is that until memorize how fast you need to spin to create the double shot, it will take sometime of starting to spin before you get to the correct speed. In actual combat, this will mean you will either miss the opportunity for a surprise attack thanks to the long rev up time, or the window of time that you had to use this tech for the purpose you needed to will already have been up. However, this is where the other two ways to do this tech help. The first one, which is the easier one to do, actually uses the stacking tech as its named. (If you are wondering why its called this, its because that it was most commonly used with predator where the bullets would be stacked on each other. Hence stacking tech).
+
+
+
+What you want to do is adjust the reload timers to the point where the second group fires immediately after or before the first group, but not at the same time. Next, when firing start spinning the octotank as fast as you can. This makes a pretty much perfect doubleshot stream instantly. I do suggest to start spinning though when the whichever group fires first first shoots where you want the stream to hit. This way you actually have aim and don't leave yourself open to the enemy you are currently firing at.
+
+
+
+The issue here is that it doesn't allow you to do a certain other tech with doubleshot that the way I originally explained does. That will be explained a bit later though. That, and the pattern is quite less random when shooting normally then the original reload pattern. The other way to do the tech is to start shooting with the octotank, and then once the first shot fires you have to turn the octotank a little to either side quickly so the alternating barrel can shoot at the same position, and then turn it back so the first barrel can shoot again.
+
+
+
+### Streaming Technique
+
+This next technique is basically shaking your mouse quick enough and slow enough that as you shake, the barrels alternating shoot in the direction you want. Its easier to aim, but once again lacks the ability to do the other tech that the normal way allows you to do. If you do get good enough to do each with ease, I would suggest alternating between using the first and last ways to do the tech. The last way is for more focus and amiable fire. Great for quick offense or defense. The first way is less focused and will be for more of a spread type of fire patter, which will be what you want for doing the next tech.
+
+
+
+Now, I will explain the AoE version of the BWP. Going back to the first tech, get to the point where you spin and the doubleshot occurs in a straight stream. Now you want to spin faster. As Anokuu also showed when she showed the BWP, the tech can cause the effect of creating a spiral made from four streams that hurt when they hit. Try going faster and slower when spinning, you want to keep the spiral fast enough where it creates a stream that is moving, but slow enough that it stays a stream. You will find staying within these requirements, instantly speeding up to them, and less accurate/more spread than when you originally attempted to do the BWP tech at a single line.
+
+
+
+This is of course because the speed and wave width of this is much more flexible than the bullet stream. While we are doing this, try changing from the speed you are going in one direction to a similar speed in the opposite direction as you are trying this tech. The ability to quickly change and surprise opponents with how this tech attacks is an important part of it, and can also pressure the opponent into going the way you want them if you force the streams to go the way you want them to go while they are within the radius' size that is the length between the end of the stream and the your octotank.
+
+
+
+The technique here is also a little more protected and definitely more random than the stream, but is still no replacement for the normal shooting pattern since although it's as focused as you make it, it still lacks the defense the normal shots have. The way you use it is up to you, but you can think of it like a version of the octotank's storm where the bullets are more offensive than defensive, and they are more random with both random placement and speed of where the stream travels around the tank. IT takes more focus as well though.
+
+
+
+Now then, there are multiple ways to use this tech. The most obvious at first would seem to be to use it to frontally overpower certain other tanks thanks to the twin frontal power, however, this isn't always the most efficient use. Sometimes, the best use for this tech is through burst fires. One example being while fighting a focus bullet spammer, where you may get cornered and need to escape, but in order to do so, you have to make it past their bullet stream. Using a burst of firepower a bit higher into their bullet stream will cause a temporary opening for you to slip through for minimal damage. Other times would be when you are fighting drone classes.
+
+
+
+If they aren't attempting to do a surrounding attack (which they most likely wont so they can penetrate your bullet storm) they may try to group up their drones to strike you. In an ambush, this will be harder to do and survive, but you will want to use this tech to temporary focus fire power on their drones so that you can either destroy them all or take minimal damage. Another time you would want to do this is when you are either ambushing or just got close to the enemy. The burst damage will take them by surprise, and even if they survive it they will be very injured, so it will be easier to kill them.
+
+
+
+The most important use though, is probably when fighting dragons. Rammers are usually forced back enough by your knockback, which can be increased with a burst of stream (Don't constantly stream it as they can weave in and out and will usually be moving which you can only focus on them for so long before you start missing them), however dragons can be an octotank's nightmare especially if they are the faster types like the sea serpent. The BWP allows for your fire power to become that of a twin, where you can out dps their basic tank frontal power.
+
+
+
+Although the more tanky ones will survive much longer and can run, they will be affected by knockback much more and won't be able to reach you. The less tanky ones like sea serpent won't take as long to die, but they can run the fastest and will eventually kill you in an ambush if they don't die.That, and they will be able to strafe alongside the stream at a time to the point where they will get to you and kill you if you keep doing the BWP instead of bursting it. Only time you should actually stream it instead of bursting it is if they are really close to you.

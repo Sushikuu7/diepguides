@@ -1,0 +1,94 @@
+# Fighter - PEKMEN
+
+
+
+## 1. Intro
+Since Fighter has so many builds and playstyles, I'm limited to one guide for each build. This time I'll be covering the 0/0/0/5/7/7/7/7 guide completely, mostly on how to fight other tanks and what to do and not to do in FFA.
+
+
+
+## 2. Build
+So let's start with the overview of the build. This build has 7 penetration, damage and reload for obvious reasons, and 7 movement speed so you can chase and run away from things much better. However, the interesting part about this build is the 5 bullet speed. Because of 7 movement speed, 5 bullet speed makes a wall of bullets while you are moving, though it's faster because of the amount of bullet speed. In exchange, you have no health stats, making you vulnerable from the sides of your front and your back. Because of this, this build is unique compared to the other glass builds and has a different playstyle from the rest of them.
+
+
+
+## 3. Class-by-Class Combat
+With that being said, here is a basic concept of how you fight nearly all tanks in the game:
+
+
+
+**1. Focused spammers**
+
+Spammers such as Triplet, Sprayer etc. can outpenetrate you in a head-on battle. What you do is try hitting them from the edge of their bullet hell while dodging the bullets that can actually hit you. To start a battle with these, you should vertically ambush them, if it goes well they'll lose quite a bit of health. When they have low enough health (usually 30% or below), you can charge at them and win. However, DO NOT charge at them directly from the front, charge at them from their sides and move left/right to avoid most of their bullets when they start aiming at you.
+
+
+
+**2. Non-focused spammers**
+
+These spammers are Pentashot, Spreadshot and Octotank. For Pentashots, don't fight them head-on unless they are on low health. That won't guarantee a kill, but keep the pressure up and they will be forced to run away, most likely getting killed by someone else. Against Spreadshots, you can fight them head-on due to their slower reload. However, dodge the bullets that can hit you while firing at the Spreadshot itself. You will need to get a bit closer to them, so watch out. Octotanks with bullet speed are usually easy kills, but if they have Auto Spin on you'll need to move left/right to dodge some of those bullets. If you can get close enough to them, they are as good as dead. Don't even try against low bullet speed (hurricane) builds tho, you'll only hurt yourself.
+
+
+
+**3. Snipers**
+
+The key to killing all Snipers is fucking up their aim. You fuck up their aim by constantly moving left/right while charging at them and they will have a hard time hitting you. If you get close enough, they are finished. Just be careful against Hunter and Predator, especially the ones with stacked bullets. 
+
+
+
+**4. Drone classes**
+
+Managers are very easy to kill due to their slow reload, and even if they have high reload, it's a sign that they have little to no health stats. Just fire at the drones and kill all 8 of them, then you can charge at the Manager, just watch out for their newly spawned drones. You fight against Necromancers the same way, kill off all of their drones. Against Overlords, you fire at the Overlord itself while dodging the drones they send at you. They are very good opponents due to their ability to spawn drones fast even with 0 reload. If they are pressuring you and forcing you to run, use your side cannons to wipe out their drones.
+
+
+
+**5. Rammers**
+
+Ah, rammers, certainly the most annoying tanks in the game due to their high speed and lots of health. However, Fighter is the solution to them because of its bullet power and speed which is almost on par with Boosters and Annihilators. Against Smashers, just chase them and retreat a bit if they try to ram you, then keep chasing and they will die since they are slower than you. Do the same against Boosters/Annihilators, however be careful when chasing Annihilators since their "dash" can kill you if you're not careful. When chasing Annihilators, place your bullets in a way that will block them if they try to turn around. And remember, always stay in the rammer's FoV, that way they can't ram you.
+
+
+
+**6. Trappers**
+
+Trappers have a hard time against Fighter, so just force them out of their trap nest and kill them while they are on the run. Be careful when facing Auto Trappers, and even more careful with Gunner Trappers.
+
+
+
+**7. Bullet Tri-Angle branch**
+
+This build is the best for bullet Tri-Angle PvPs due to its speed, power and the fast wall of bullets that other Tri-Angles have a hard time outpenetrating due to their lack of firepower. Against them, overwhelm them by moving left/right while using your front cannon to outpenetrate their front bullets until you get close enough, then it's game over. If you lose health, they will start chasing you, so run while firing your side cannons at them. That works pretty well against dragon builds, since they have to get close to you to kill you.
+
+
+
+## 4. Counters
+
+Technically, no Fighter build has hard counters if they have enough movement speed to run away from anything. However, there are some tanks that you should avoid, fight very cautiously or attack only when they are on low health:
+
+
+
+**1: Autogunner**
+
+Due to their quantity of bullets, they are almost impossible to outpenetrate with a glass build, and their auto gun can "detect" you when you're trying to vertically ambush them, so they will know where you are. I only suggest attacking them once they are on low health or have a bad aim.
+
+
+
+**2: Hunter/Predator (stacked bullets)**
+
+Stacked Predator can OHKO (one hit KO) glass builds if all 3 bullets land. Fight them like you would against any Sniper, just be very cautious. One mistake, and you could die.
+
+
+
+**3: Gunner Trapper**
+
+Gunner Trapper has ghost bullets that deal a lot of damage and traps they can use to shield themselves. However, since they require a good aim, you can take advantage of that by moving left/right, just be cautious because they can deal a lot of damage.
+
+
+
+**4: Auto 5**
+
+Auto 5 is a very good tank to pick if you want to counter glass Fighters because their auto guns can track you even while you're not in their FoV. Before you fight them, try getting close enough to it to know where it's located, then once you find out where it is, attack it only when 2 of their auto guns are locked on you by going left/right. Be careful as their bullets are very powerful for their size.
+
+
+
+**5: Battleship**
+
+Battleship is a very hard tank to fight as glass Fighter because of the amount of their drones that deal a surprising amount of damage. Fight against them by trying to get some bullets to bypass their drones and hit it while backing away far enough so that their drones can't reach you. If the Battleship user can dodge well, then it's almost impossible to kill it.
