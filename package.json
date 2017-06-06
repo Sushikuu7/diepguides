@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Sushikuu7/diepio#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-showdown": "^0.1.0"
+    "gulp-showdown": "^0.1.0",
+    "through2": "^2.0.3"
   }
 }
