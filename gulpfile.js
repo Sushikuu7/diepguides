@@ -2,6 +2,7 @@ var gulp = require('gulp'); // Gulp.
 var gulpShowdown = require('gulp-showdown'); // Markdown processing.
 var through = require("through2");
 var fs = require("fs");
+var path = require("path");
 var templates = ["concepts", "guides", "index", "regular"];
 var templateContents = {};
 for (var ind = 0; ind < templates.length; ind++) {
@@ -9,7 +10,7 @@ for (var ind = 0; ind < templates.length; ind++) {
 }
 var lastPath;
 
-function applyTemplatesAndModifiers() {
+function applyTemplatesAndModifiers(enableMain) {
   return through.obj(function(file, encoding, cb) {
     if (file.path === lastPath) return cb(null, file);
     lastPath = file.path;
@@ -67,6 +68,10 @@ gulp.task("md2html", function() {
     .pipe(gulpShowdown(showdownOpts))
     .pipe(applyTemplatesAndModifiers())
     .pipe(gulp.dest('tanks'));
+  gulp.src("md/main/*.md")
+    .pipe(gulpShowdown(showdownOpts))
+    .pipe(applyTemplatesAndModifiers(true))
+    .pipe(gulp.dest("./"));
 });
 
 gulp.task("default", ["md2html"]);
