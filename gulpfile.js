@@ -1,5 +1,6 @@
 var gulp = require('gulp'); // Gulp.
 var gulpShowdown = require('gulp-showdown'); // Markdown processing.
+var gulpSass = require("gulp-sass"); // Sass processing.
 var through = require("through2");
 var fs = require("fs");
 var path = require("path");
@@ -74,4 +75,14 @@ gulp.task("md2html", function() {
     .pipe(gulp.dest("./"));
 });
 
-gulp.task("default", ["md2html"]);
+gulp.task("sass2css", function() {
+  var sassOpts = {
+    outputStyle: 'compressed',
+    indentedSyntax: true
+  }
+  return gulp.src('sass/**/*.s*ss')
+   .pipe(gulpSass(sassOpts).on('error', gulpSass.logError))
+   .pipe(gulp.dest('css'));
+});
+
+gulp.task("default", ["md2html", "sass2css"]);

@@ -1,0 +1,20 @@
+@import vars
+
+=main-font()
+  font-family: $main-font
+
+=center-relative()
+  text-align: center
+  position: relative
+
+=header($color, $font-size, $use-margin-padding: true)
+  color: $color
+  font-family: $main-font
+  font-size: $font-size
+  @if $use-margin-padding
+    margin: 0px
+    padding: 0px
+
+=ul-li()
+  display: inline
+  list-style-type: none

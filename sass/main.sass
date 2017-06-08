@@ -1,0 +1,68 @@
+// CSS for diepio Website with Class Guides
+
+@import vars
+@import mixins
+
+body
+  +main-font
+  color: black
+  background-color: white
+  margin: 0px 125px 0px
+  center
+    +center-relative
+    display: block
+    font-size: 200%
+
+h1
+  +center-relative
+  +header(#4285F4, 80px, false)
+
+h2
+  +header(#9D67FF, 40px)
+
+h3
+  +header(#F277F7, 30px)
+
+p
+  +main-font
+  color: black
+
+img
+  max-width: 100%
+  padding: 25px
+
+iframe
+  display: block
+  margin: 0 auto
+
+.img_small
+  width: 75%
+
+.page_title
+  +header(#4285F4, 60px, false)
+  position: relative
+
+.center
+  text-align: center
+  &_other
+    align-content: center
+
+/*List of Helpful Links*/
+ul .ulnav
+  +ul-li
+  margin: 0
+  padding: 0
+  overflow: hidden
+  background-color: white
+  font-size: 20px
+  & > li
+    +ul-li
+    float: left
+    & a
+      display: block
+      color: #777
+      text-align: center
+      padding: 10px 16px
+      text-decoration: none
+      &:hover
+        color: #222
