@@ -10,7 +10,7 @@ for (var ind = 0; ind < templates.length; ind++) {
 }
 var lastPath;
 
-function applyTemplatesAndModifiers(enableMain) {
+function applyTemplatesAndModifiers() {
   return through.obj(function(file, encoding, cb) {
     if (file.path === lastPath) return cb(null, file);
     lastPath = file.path;
@@ -70,7 +70,7 @@ gulp.task("md2html", function() {
     .pipe(gulp.dest('tanks'));
   gulp.src("md/main/*.md")
     .pipe(gulpShowdown(showdownOpts))
-    .pipe(applyTemplatesAndModifiers(true))
+    .pipe(applyTemplatesAndModifiers())
     .pipe(gulp.dest("./"));
 });
 
